@@ -1,3 +1,6 @@
+Author: Asdrubal Cheng Cen
+NO COMMERCIALIZATION OF THE SOURCE CODE IS ALLOWED UNDER ANY CIRCUMSTANCES
+
 #Matlab 2048 Game
 
 A functional simulation of the popular online game 2048 within the Matlab IDE. My game creates a matrix of 4 by 4 and then it throws at any random location 2's and 4's. 
