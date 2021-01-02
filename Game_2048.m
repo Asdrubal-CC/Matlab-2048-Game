@@ -1,3 +1,5 @@
+% NO COMMERCIALIZATION OF THE SOURCE CODE IS ALLOWED UNDER ANY CIRCUMSTANCES
+
 fprintf("\n")
 fprintf("Welcome to Math_Game, a replicate of 2048 created by me, Asdrubal Cheng\n")
 fprintf("in request from my brother Aaron Cheng. Enjoy the Game.\n\n")
