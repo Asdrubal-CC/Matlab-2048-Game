@@ -15,17 +15,19 @@ a beginner so please, don't be too harsh with it.)
 
 2) Run and you will see the following instructions
 
-  2.1)  fprintf("Welcome to Math_Game, a replicate of 2048 created by me, Asdrubal Cheng\n")
-        fprintf("in request from my brother Aaron Cheng. Enjoy the Game.\n\n")
-        fprintf("Instructions:\n\n")
-        fprintf("The game consists in a matrix where you add numbers through a series of\n")
-        fprintf("directions that are equal until you cannot do this anymore.\n\n")
-        fprintf("Rules:\n\n")
-        fprintf("- Press 'a' to move all the numbers left\n")
-        fprintf("- Press 'w' to move all the numbers up\n")
-        fprintf("- Press 's' to move all the numbers down\n")
-        fprintf("- Press 'd' to move all the numbers right\n")
-        fprintf("- Press 'e' to exit\n\n")
-        fprintf("Good Luck!\n\n")
+  2.1)  Welcome to Math_Game, a replicate of 2048 created by me, Asdrubal Cheng in request from my brother Aaron Cheng. Enjoy the Game.
+        
+        Instructions:
+        
+        The game consists in a matrix where you add numbers through a series of directions that are equal until you cannot do this anymore.
+        
+        Rules:
+        - Press 'a' to move all the numbers left
+        - Press 'w' to move all the numbers up
+        - Press 's' to move all the numbers down
+        - Press 'd' to move all the numbers right
+        - Press 'e' to exit\n\n")
+        
+        Good Luck!
  
- 3) Enjoy!!
+ 3) And Enjoy!!
